@@ -31,6 +31,7 @@ h1,h2,h3,h4{
 	color:#FFF;
     text-align: center;
     padding: 100px 0;
+    opacity:0.5;
 }
 .header_content h1{
 	color:#FFF;
@@ -79,4 +80,8 @@ h1,h2,h3,h4{
 .contactame{
 	background: url(../images/tile2.png);
 	height: 320px;
+}
+.list-contactame li{
+	display: inline-block;
+	margin-right: 20px;
 }
